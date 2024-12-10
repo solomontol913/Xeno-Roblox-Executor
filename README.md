@@ -16,7 +16,7 @@ Take control of your Roblox experience with Xeno Executor. Execute scripts, cust
 
 ## ⚡ How to Use Xeno Executor
 
-![Download]() & Install the latest version.
+[Download]() & Install the latest version.
 Launch Roblox and log in.
 Execute Scripts using Xeno Executor.
 

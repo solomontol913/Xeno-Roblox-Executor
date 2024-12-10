@@ -9,14 +9,14 @@ Take control of your Roblox experience with Xeno Executor. Execute scripts, cust
 
 ## 🔥 **Features**
 
--🛡️ **Safe & Undetectable** Advanced anti-detection technology for secure use.
--💻 **Full Script Support** Run a variety of scripts, from simple tweaks to advanced mods.
--⚡ **Fast & Optimized** Execute scripts quickly and efficiently.
--🎮 **User-Friendly** Intuitive design for all experience levels.
+-🛡️ **Safe & Undetectable**: Advanced anti-detection technology for secure use.
+-💻 **Full Script Support**: Run a variety of scripts, from simple tweaks to advanced mods.
+-⚡ **Fast & Optimized**: Execute scripts quickly and efficiently.
+-🎮 **User-Friendly**: Intuitive design for all experience levels.
 
 ## ⚡ How to Use Xeno Executor
 
-Download & Install the latest version.
+[Download]() & Install the latest version.
 Launch Roblox and log in.
 Execute Scripts using Xeno Executor.
 
